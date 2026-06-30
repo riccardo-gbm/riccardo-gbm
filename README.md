@@ -1,8 +1,7 @@
-# Hi, I'm Ricardo Cango 👋
+# Hi, I'm Ricardo
 
-🎓 Computer Science and Technology Student @ Tecnológico de Monterrey
-🚀 Member of the CODEX High-Performance Program (AI & Systems Design)
-🤖 Software Developer @ VantTec – SWARM Project
+🎓 Computer Science sand Technology Student at Tecnológico de Monterrey
+
 📊 Passionate about Artificial Intelligence, Robotics, Computer Vision, and Data Science
 
 ---
@@ -24,39 +23,6 @@ My interests include:
 * Software Engineering
 
 ---
-
-## Current Projects
-
-### 🚁 SWARM Project – VantTec
-
-* Managing and synchronizing fleets of up to 30 autonomous drones
-* Designing complex flight paths using Blender
-* Working with Skybrush and QGroundControl
-* Integrating hardware and maintaining quadcopters
-
-### 📈 Customer Churn Prediction
-
-* Developed machine learning classification models
-* Implemented XGBoost and LightGBM
-* Evaluated predictive performance for telecommunications datasets
-
-### 💰 Student Cost of Living Platform
-
-* Built with HTML, CSS, and JavaScript
-* Real-time exchange rate integration
-* PDF export functionality
-* Deployed using GitHub Pages
-
-🔗 Project: https://riccardo-gbm.github.io/IA-CS/
-
-### 📊 Student Analytics @ Tecnológico de Monterrey
-
-* Developing Power BI dashboards for 9,300+ students
-* Data cleaning and transformation with Power Query
-* Statistical reporting and visualization
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -83,26 +49,6 @@ My interests include:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
----
-
-## Achievements
-
-🏅 Bronze Medal – Ecuadorian Mathematics Competition (SEDEM)
-
-🎖️ Second Escort of the National Flag – Colegio Intisana
-
-🎯 Selected for Tecnológico de Monterrey's CODEX Program
-
-🌍 IELTS Academic: 8.0/9.0 (C1 English)
-
----
-
-## Languages
-
-* 🇪🇨 Spanish (Native)
-* 🇬🇧 English (C1 – IELTS 8.0)
-* 🇫🇷 French (A2)
 
 ---
 
