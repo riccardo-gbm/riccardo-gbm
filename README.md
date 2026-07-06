@@ -433,7 +433,7 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <br/>
 
-<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocango2007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
+<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-gbm&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
 
 </div>
 
@@ -443,7 +443,7 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ricardocango2007&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=riccardo-gbm&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
 
@@ -453,7 +453,7 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardocango2007&bg_color=020617&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Ricardo%20Cango%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riccardo-gbm&bg_color=020617&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Ricardo%20Cango%20Contribution%20Graph" />
 
 </div>
 
@@ -463,7 +463,7 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ricardocango2007/ricardocango2007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/riccardo-gbm/riccardo-gbm/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
