@@ -17,24 +17,24 @@
 
 <br/><br/>
 
-<a href="https://ricardocango2007.github.io">
+<a href="https://riccardo-gbm.github.io">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
 </a>
-<a href="https://www.linkedin.com/in/ricardocango2007">
+<a href="https://www.linkedin.com/in/diego-ricardo-cango-879775380">
   <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ricardocango2007@gmail.com">
   <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/ricardocango2007">
+<a href="https://github.com/riccardo-gbm">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ricardocango2007&style=flat-square&color=7C3AED&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/ricardocango2007?style=flat-square&color=6366F1&label=Followers&logo=github" />
-<img src="https://img.shields.io/github/stars/ricardocango2007?style=flat-square&color=8B5CF6&label=Total%20Stars&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=riccardo-gbm&style=flat-square&color=7C3AED&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/riccardo-gbm?style=flat-square&color=6366F1&label=Followers&logo=github" />
+<img src="https://img.shields.io/github/stars/riccardo-gbm?style=flat-square&color=8B5CF6&label=Total%20Stars&logo=github" />
 
 </div>
 
@@ -131,7 +131,7 @@ A polished, professional frontend demo for a B2B cleaning-supplies business plat
 | Performance | Static-first architecture, optimized UI flow, lightweight mock data |
 | Security | Frontend-only MVP with no sensitive backend data exposed |
 | Impact | Helps validate a real business idea visually before backend development |
-| Repository | [View Repository](https://github.com/ricardocango2007) |
+| Repository | [View Repository](https://github.com/riccardo-gbm) |
 
 <br/>
 
@@ -155,7 +155,7 @@ A web platform designed to help students estimate and compare cost-of-living sce
 | Performance | Lightweight static deployment with browser-based processing |
 | Security | No authentication required; avoids storing sensitive financial data |
 | Impact | Helps students make clearer relocation and budgeting decisions |
-| Repository | [View Repository](https://github.com/ricardocango2007) |
+| Repository | [View Repository](https://github.com/riccardo-gbm) |
 
 <br/>
 
@@ -179,7 +179,7 @@ A machine learning project focused on predicting telecom customer churn using st
 | Performance | Comparative ML evaluation between XGBoost and LightGBM |
 | Security | Local analytical workflow with anonymized structured data |
 | Impact | Demonstrates applied ML for business retention and customer analytics |
-| Repository | [View Repository](https://github.com/ricardocango2007) |
+| Repository | [View Repository](https://github.com/riccardo-gbm) |
 
 <br/>
 
@@ -203,7 +203,7 @@ Engineering work with VantTec SWARM focused on drone operations, autonomous syst
 | Performance | Flight path planning, calibration, maintenance, and testing support |
 | Security | Safety-aware drone handling and controlled testing environments |
 | Impact | Contributes to autonomous drone demonstrations and engineering readiness |
-| Repository | [View Repository](https://github.com/ricardocango2007) |
+| Repository | [View Repository](https://github.com/riccardo-gbm) |
 
 <br/>
 
@@ -427,9 +427,9 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocango2007&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riccardo-gbm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ricardocango2007&theme=midnight-purple&hide_border=true&background=020617&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=CBD5E1" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=riccardo-gbm&theme=midnight-purple&hide_border=true&background=020617&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=CBD5E1" />
 
 <br/>
 
