@@ -406,7 +406,7 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<a href="https://leetcode.com/ricardocango2007">
+<a href="https://leetcode.com/riccardo_c_c">
   <img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/ricardocango2007">
