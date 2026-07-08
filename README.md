@@ -427,24 +427,13 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riccardo-gbm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=riccardo-gbm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=riccardo-gbm&theme=midnight-purple&hide_border=true&background=020617&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=CBD5E1" />
 
 <br/>
 
-<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo-gbm&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-max.vercel.app/?username=riccardo-gbm&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
-
+<img height="205" src="https://github-readme-stats.shion.dev/api/top-langs/?username=riccardo-gbm&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
 </div>
 
 ---
