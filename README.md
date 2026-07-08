@@ -443,7 +443,7 @@ Undergraduate student in Computer Science and Technology with a strong focus on 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=riccardo-gbm&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+<img src="https://github-profile-trophy-max.vercel.app/?username=riccardo-gbm&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
 
 </div>
 
