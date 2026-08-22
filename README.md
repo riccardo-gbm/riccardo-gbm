@@ -38,32 +38,6 @@
 
 </div>
 
----
-
-## About
-
-I am **Ricardo Cango**, a Computer Science and Technology student at **Tecnológico de Monterrey, Campus Monterrey**, building a strong engineering foundation across **software engineering, AI/ML, full-stack development, data systems, and autonomous technology**.
-
-My work focuses on designing and implementing practical systems that connect technical depth with product value. I enjoy building applications that are not only functional, but also scalable, clean, explainable, and useful for real users. My experience includes AI-assisted platforms, machine learning pipelines, data analysis dashboards, frontend product demos, autonomous drone systems, statistical modeling, and production-oriented academic software.
-
-I am especially interested in **AI-powered software products**, **backend and full-stack systems**, **machine learning engineering**, **data-driven decision platforms**, and **high-impact engineering teams**. Long term, I am preparing for elite software engineering opportunities by strengthening my foundations in algorithms, systems design, cloud tooling, Linux workflows, production software, and open-source collaboration.
-
-<br/>
-
-<div align="center">
-
-| Open To | Focus |
-|---|---|
-| Software Engineering Internships | Full-stack, backend, systems, product engineering |
-| AI / ML Engineering Internships | Predictive modeling, applied ML, AI-powered apps |
-| Data Engineering / Analytics Roles | Dashboards, pipelines, business intelligence |
-| Open Source Collaboration | Developer tools, AI tooling, automation, web platforms |
-| Research-Oriented Engineering Projects | Autonomous systems, drones, applied AI, optimization |
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
