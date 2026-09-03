@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:312E81,65:6D28D9,100:8B5CF6&text=Ricardo%20Cango&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Full-Stack%20Systems&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030926,35:2E4381,65:283AD9,100:385EFC&text=Ricardo%20Cango&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Technology+Student;Software+Engineer+focused+on+AI-powered+products;Full-Stack+Developer+building+real-world+systems;ML+Engineer+with+data-driven+product+mindset;Drone+Systems+%26+Autonomous+Technology+Contributor" />
 
